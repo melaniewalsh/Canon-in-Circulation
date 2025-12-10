@@ -1,6 +1,6 @@
 ---
 title: "Deaths of the Authors"
-output: html_document
+output: rmarkdown::github_document
 ---
 ```{r}
 spl_df <- read.csv("https://seattle-library-checkout-data.s3.us-west-2.amazonaws.com/norton-anthology_spl-checkouts_2005-2025.csv")

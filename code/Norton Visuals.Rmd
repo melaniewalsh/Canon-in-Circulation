@@ -2,7 +2,7 @@
 title: "Norton"
 author: "Tony"
 date: "2025-07-16"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r}
