@@ -27,7 +27,9 @@ This paper explores which canonical American authors the public is reading by an
 
 ## Data
 
-The data is available at: https://seattle-library-checkout-data.s3.us-west-2.amazonaws.com/norton-anthology_spl-checkouts_2005-2025.csv
+Direct Download: https://seattle-library-checkout-data.s3.us-west-2.amazonaws.com/norton-anthology_spl-checkouts_2005-2025.csv
+
+Google Sheet:https://docs.google.com/spreadsheets/d/1a_ifxeHJ_5MlaBo-34sEWwqBMAqhZLLX47xaSDkpzc4/edit?usp=sharing
 
 ## Interactive Explorer
 
